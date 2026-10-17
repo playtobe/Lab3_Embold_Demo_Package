@@ -1,0 +1,18 @@
+DEV001, Nguyen Van A, [Java, C++], 5000
+DEV002, Tran Thi B, [Python, Scala], 4500
+DEV003, Le Van C, [C#, Golang, React], 5500
+DEV004, Pham Thi D, [JavaScript, React], 4800
+DEV005, Hoang Van E, [Java, Spring], 5200
+DEV006, Do Minh F, [Python, Django], 4700
+DEV007, Le Thi G, [C++, Embedded], 4300
+DEV008, Nguyen Van H, [Java, Kotlin], 5100
+DEV009, Tran Van I, [PHP, Laravel], 4600
+DEV01A, Vu Minh J, [Java], 4000
+DEV010, Phan Thi K, [C#, .NET], 4900
+DEV011, Bui Van L, [], 4500
+DEV012, Dang Thi M, [Golang, Docker], 5300
+DEV013, Ngo Van N, [Python, ML], 5800
+DEV014, Ly Thi O, [JavaScript, Vue], 4200
+DEV015, Truong Van P, [Rust, Systems], 6000
+DEV016, Le Q, [Java], 3900
+DEV017, Mai Thi R, [Java, SQL], 5000
